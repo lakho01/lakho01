@@ -5,7 +5,6 @@ This is Ali Lakho's GitHub profile
 * Studying BSc(Hons) Computer Science at The University of Manchester
 * Link to current projects
   * https://github.com/lakho01/mr_scheduler-discord.py-bot
-  * https://github.com/lakho01/Brit-asian-soc
 
 * Contact me through lakhosh40@gmail.com
 
